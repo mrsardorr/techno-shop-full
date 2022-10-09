@@ -1,2 +1,2 @@
-# techno-shop-full
-front+back done.
+# techno-shop
+techno shop. Practise restFull api
